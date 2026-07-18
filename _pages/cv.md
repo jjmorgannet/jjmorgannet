@@ -13,8 +13,8 @@ Education
 ======
 * Ph.D. in Criminal Justice, University of Cincinnati, Expected 2028
   * Dissertation: TBA | Advisor: TBA
- * Graduate Certificate, Data Analytics, University of Cincinnati, Expected 2026
- * Graduate Certificate, Correctional Rehabilitation, University of Cincinnati, 2026
+    * Graduate Certificate, Data Analytics, University of Cincinnati, Expected 2026
+  * Graduate Certificate, Correctional Rehabilitation, University of Cincinnati, 2026
 * M.S. in Criminal Justice, Lamar University, 2023
 * M.B.A. in Business Administration, University of Phoenix, 2011
 * B.A. in History, Eckerd College, 2002
