@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Criminal Justice, University of Cincinnati, Expected 2028
+* Ph.D. in Criminal Justice, [University of Cincinnati](https://www.uc.edu), Expected 2028
   * Dissertation: TBA | Advisor: TBA
-    * Graduate Certificate, Data Analytics, University of Cincinnati, Expected 2026
-  * Graduate Certificate, Correctional Rehabilitation, University of Cincinnati, 2026
-* M.S. in Criminal Justice, Lamar University, 2023
-* M.B.A. in Business Administration, University of Phoenix, 2011
-* B.A. in History, Eckerd College, 2002
-* Undergraduate Certificate, Basic Law Enforcement, St. Petersburg College, 2000
+* Graduate Certificate, Data Analytics, [University of Cincinnati](https://www.uc.edu), Expected 2026
+* Graduate Certificate, Correctional Rehabilitation, [University of Cincinnati](https://www.uc.edu), 2026
+* M.S. in Criminal Justice, [Lamar University](https://www.lamar.edu), 2023
+* M.B.A. in Business Administration, [University of Phoenix](https://www.phoenix.edu), 2011
+* B.A. in History, [Eckerd College](https://www.eckerd.edu), 2002
+* Undergraduate Certificate, Basic Law Enforcement, [St. Petersburg College](https://www.spcollege.edu/), 2000
 
 Work experience
 ======
