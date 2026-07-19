@@ -27,7 +27,4 @@ main:
     url: /cv/
   
   - title: "Skills"
-    url: /presentations/    
-
-  - title: "Blog"
-    url: /year-archive/
+    url: /presentations/
