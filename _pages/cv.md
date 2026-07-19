@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Criminal Justice, University of Cincinnati, Expected 2028
+* Ph.D. in Criminal Justice, University of Cincinnati, _Expected 2028_
   * Dissertation: TBA | Advisor: TBA
 * Graduate Certificate, Data Analytics, University of Cincinnati, Expected 2026
 * Graduate Certificate, Correctional Rehabilitation, University of Cincinnati, 2026
