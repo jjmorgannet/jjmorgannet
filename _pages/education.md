@@ -11,7 +11,7 @@ redirect_from:
 
 Degrees
 ======
-* Ph.D. in Criminal Justice, University of Cincinnati, _Expected 2028_
+* Ph.D. in Criminal Justice, [University of Cincinnati](https://www.uc.edu), _Expected 2028_
   * Dissertation: TBA | Advisor: TBA
 * Graduate Certificate, Data Analytics, University of Cincinnati, Expected 2026
 * Graduate Certificate, Correctional Rehabilitation, University of Cincinnati, 2026
@@ -22,7 +22,7 @@ Degrees
 
 Honors and Awards
 ======
-* 2024 – present | Dean's Fellowship, University of Cincinnati
+* 2024 – present: Dean's Fellowship, University of Cincinnati
 * 2025 – 2026: Elinor Ostrom Fellowship, Mercatus Center at George Mason University
 * 2025: Policy Fellowship, Crime and Justice Institute
 * 2024: Early Career Travel Award, Division of Convict Criminology, American Society of Criminology
