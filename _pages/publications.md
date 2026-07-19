@@ -13,14 +13,14 @@ author_profile: true
 
 ## Works in Progress
 
-* **Morgan, J. J.** & Campbell, W. Does justice involvement change political ideology? Testing the micropartisan stability thesis with longitudinal data.
-* **Morgan, J. J.** & Hickert, A. O. A national census of victim-offender dialogue programs in American prisons. (University of Cincinnati IRB #2025-0088)
-* **Morgan, J. J.**, Cochran, J. C., & Hickert, A. O. Illegal or undocumented? Immigration labels and support for criminal justice policies. (University of Cincinnati IRB #2026-0482)
-* **Morgan, J. J.**, Nedelec, J. L., Manchak, S., & Gaiser, M. Is Post-Incarceration Syndrome a distinct diagnosis? A systematic review mapping carceral trauma symptomatology to PTSD and Complex PTSD Criteria. (University of Cincinnati IRB #2025-0086)
-* Gomez, M. & **Morgan, J. J.** Post-Incarceration Syndrome: A construct-validity appraisal and conceptual framework for reentry science.
+* **Morgan, J. J.** & [Campbell, W.](https://orcid.org/0000-0002-7839-9475) Does justice involvement change political ideology? Testing the micropartisan stability thesis with longitudinal data.
+* **Morgan, J. J.** & [Hickert, A. O.](https://orcid.org/0000-0002-0740-8602) A national census of victim-offender dialogue programs in American prisons. (University of Cincinnati IRB #2025-0088)
+* **Morgan, J. J.**, [Cochran, J. C.](https://orcid.org/0000-0002-3921-5557), & [Hickert, A. O.](https://orcid.org/0000-0002-0740-8602) Illegal or undocumented? Immigration labels and support for criminal justice policies. (University of Cincinnati IRB #2026-0482)
+* **Morgan, J. J.**, [Nedelec, J. L.](https://orcid.org/0000-0002-2308-3617), [Manchak, S.](https://orcid.org/0000-0002-4703-4107), & [Gaiser, M.](https://guides.libraries.uc.edu/prf.php?account_id=246505) Is Post-Incarceration Syndrome a distinct diagnosis? A systematic review mapping carceral trauma symptomatology to PTSD and Complex PTSD Criteria. (University of Cincinnati IRB #2025-0086)
+* [Gomez, M.](https://orcid.org/0009-0008-5447-462X) & **Morgan, J. J.** Post-Incarceration Syndrome: A construct-validity appraisal and conceptual framework for reentry science.
 * **Morgan, J. J.** Carceral liquidity: Toward a theory of convertibility, realizability, and differential penal extraction.
-* **Morgan, J. J.**, Manchak, S., & Gaiser, M. Systematic review of how mutable individual physical cues influence criminal justice actor decision-making. (University of Cincinnati IRB #2026-0710)
-* Manchak, S., Light, S. C., Insco, L. M., Beldsoe, B. N., & **Morgan, J. J.** Systematic review of best implementation practices for deflection.
+* **Morgan, J. J.**, [Manchak, S.](https://orcid.org/0000-0002-4703-4107), & [Gaiser, M.](https://guides.libraries.uc.edu/prf.php?account_id=246505) Systematic review of how mutable individual physical cues influence criminal justice actor decision-making. (University of Cincinnati IRB #2026-0710)
+* [Manchak, S.](https://orcid.org/0000-0002-4703-4107), [Light, S. C.](https://www.linkedin.com/in/sarah-light-phd-086247141/), [Insco, L. M.](https://orcid.org/0009-0008-2675-4376), [Bledsoe, B. N.](https://orcid.org/0009-0001-0916-439X), & **Morgan, J. J.** Systematic review of best implementation practices for deflection.
 
 ## Public Scholarship (Print)
 
