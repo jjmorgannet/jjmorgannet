@@ -36,4 +36,9 @@
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv"
-;
+
+// Remove underline from links, keep default theme color
+a {
+  text-decoration: none;
+}
+   ;
