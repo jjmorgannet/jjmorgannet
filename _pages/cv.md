@@ -60,13 +60,11 @@ Research Interests
 
 Publications
 ======
-[Publication List](/publications/)
+* [Publication List](/publications/)
 
 Professional Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* [Presentation List](/presentations)
 
 Teaching Experience
 ======
