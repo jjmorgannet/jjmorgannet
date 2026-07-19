@@ -23,8 +23,11 @@ main:
   - title: "Teaching"
     url: /year-archive/
 
-  - title: "Professional Service"
+  - title: "Service"
     url: /cv/
   
   - title: "Skills"
     url: /presentations/
+
+  - title: "Blog"
+    url: /year-archive/
