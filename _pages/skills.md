@@ -11,35 +11,42 @@ author_profile: true
 
 ## Data Reporting & Dashboards
 
-* Tableau — ★★★★☆
 * Excel — ★★★★☆
-* PowerBI — ★★★☆☆
+* PowerBI — ★★☆☆☆
+* Tableau — ★★★☆☆
 
 ## Databases & Analysis
 
-* Stata — ★★★★☆
-* Python — ★★★☆☆
 * Microsoft SQL Server — ★★★☆☆
+* Python — ★★★☆☆
+* Stata — ★★★★☆
 
-## Grant, CRM & Review Platforms
+## Financial, Grant, & CRM
 
-* Salesforce — ★★★★☆
-* Fluxx — ★★★★☆
-* Apricot — ★★★☆☆
-* Submittable — ★★★☆☆
+* Apricot — ★★☆☆☆
+* Fluxx — ★★☆☆☆
+* Quickbooks - ★★☆☆☆
+* Salesforce — ★★★☆☆ (Rank: Ranger)
+* Submittable — ★★☆☆☆
+
+## Law Office Management
+
+* Clio - ★★★★☆ (Certified Consultant)
+* MyCase - ★★★☆☆ (Certified Consultant)
+* PracticePanther - ★★★★★ (Certified Consultant)
 
 ## Workflow & Collaboration Tools
 
-* Asana — ★★★★☆
-* Notion — ★★★☆☆
 * Airtable — ★★★☆☆
-* Monday — ★★★☆☆
+* Asana — ★★☆☆☆
 * Basecamp — ★★☆☆☆
+* Monday.com — ★★☆☆☆
+* Notion — ★★☆☆☆
 
 ## Other Tools
 
-* Microsoft Office — ★★★★★
-* Google Workspace — ★★★★★
-* Canva — ★★★☆☆
-* WordPress — ★★★☆☆
-* Hootsuite — ★★☆☆☆
+* Canva — ★★★★★
+* Google Workspace — ★★★★☆
+* Hootsuite — ★★★☆☆
+* Microsoft Office/365 — ★★★★★
+* WordPress — ★★★★☆
