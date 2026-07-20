@@ -7,48 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
-*Proficiency key: ★★★★ Expert · ★★★☆ Advanced · ★★☆☆ Intermediate | ★☆☆☆☆ Beginner*
+*Proficiency: ★★★★ Expert · ★★★☆ Advanced · ★★☆☆ Intermediate · ★☆☆☆ Beginner*
 
 ## Data Reporting & Dashboards
 
-* Excel — ★★★★☆
+* Excel — ★★★☆
 * PowerBI — ★★☆☆☆
-* Tableau — ★★★☆☆
+* Tableau — ★★★☆
 
 ## Databases & Analysis
 
-* Microsoft SQL Server — ★★★☆☆
-* Python — ★★★☆☆
-* Stata — ★★★★☆
+* Microsoft SQL Server — ★★☆☆
+* Python — ★★☆☆
+* Stata — ★★★☆
 
 ## Financial, Grant, & CRM
 
-* Apricot — ★★☆☆☆
-* Fluxx — ★★☆☆☆
-* Quickbooks - ★★☆☆☆
-* Salesforce — ★★★☆☆ _(Rank: Ranger)_
-* Submittable — ★★☆☆☆
+* Apricot — ★★☆☆
+* Fluxx — ★★☆☆
+* Quickbooks - ★★☆☆
+* Salesforce — ★★☆☆ _(Rank: Ranger)_
+* Submittable — ★★☆☆
 
 ## Law Office Management
 
-* Clio - ★★★★☆ _(Certified Consultant)_
-* MyCase - ★★★★☆ _(Certified Consultant)_
-* PracticePanther - ★★★★★ _(Certified Consultant)_
+* Clio - ★★★☆ _(Certified Consultant)_
+* MyCase - ★★★☆ _(Certified Consultant)_
+* PracticePanther - ★★★★ _(Certified Consultant)_
 
 ## Workflow & Collaboration Tools
 
-* Airtable — ★★★☆☆
-* Asana — ★★☆☆☆
-* Basecamp — ★★☆☆☆
-* Microsoft Teams - ★★★★☆
-* Monday.com — ★★☆☆☆
-* Notion — ★★☆☆☆
+* Airtable — ★★☆☆
+* Asana — ★☆☆☆
+* Basecamp — ★☆☆☆
+* Microsoft Teams - ★★★☆
+* Monday.com — ★★☆☆
+* Notion — ★★☆☆
 
 ## Other Tools
 
-* Canva — ★★★★★
-* Google Workspace — ★★★★☆
-* Hootsuite — ★★★☆☆
-* Jotform - ★★★★☆
-* Microsoft Office/365 — ★★★★★
-* WordPress — ★★★★☆
+* Canva — ★★★★
+* Google Workspace — ★★★☆
+* Hootsuite — ★★★☆
+* Jotform - ★★★☆
+* Microsoft Office/365 — ★★★★
+* WordPress — ★★★☆
