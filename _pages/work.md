@@ -9,26 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Academic Positions
-======
+## Academic Positions
+
 * 2024 – present: Graduate Research and Teaching Assistant, School of Criminal Justice, University of Cincinnati
-  * [Courses taught](/teaching/)
+  * [List of courses taught](/teaching/)
 * 2015 – 2018: Adult Education Instructor, Florida Department of Corrections
 
-Teaching Experience
-======
-**University of Cincinnati**
-* CJ6031: What Works in Changing Offender Behavior (Fall 2026), Teaching Assistant, Graduate
-* CJ4049: Lived Experiences in Prison (Fall 2026), Teaching Assistant, Undergraduate
-* CJ4031: What Works in Changing Offender Behavior (Fall 2026), Teaching Assistant, Undergraduate
+## Research Experience
 
-Research Experience
-======
-* 2025 – present: Member, Crime and Justice Public Opinion Lab, School of Criminal Justice, University of Cincinnati
-* 2024 – present: Member, Health and Justice Lab, School of Criminal Justice, University of Cincinnati
+* 2025 – present: Member, Crime and Justice Public Opinion Lab, School of Criminal Justice, [University of Cincinnati](https://www.uc.edu)
+* 2024 – present: Member, Health and Justice Lab, School of Criminal Justice, [University of Cincinnati](https://www.uc.edu)
 
-Non-Academic Experience
-======
+## Non-Academic Experience
+
 * 2025 – present: Chief Operating Officer and Founder, JustDatalytics, Cincinnati, OH
   * Direct daily operations and strategic initiatives to implement evidence-based programs; oversee research projects across all stages of the criminal justice system, ensuring rigorous methodological standards and statistical analysis
   * Serve as fractional C-suite executive, including Chief Compliance Officer for a justice reform nonprofit, and organizer of the inaugural Western Region Reentry Summit
@@ -48,8 +41,8 @@ Non-Academic Experience
 * 2002 – 2011: Deputy Sheriff and Detective, Broward County Sheriff's Office, Fort Lauderdale, FL
   * Sworn road patrol officer and property crimes detective; created a homeless outreach unit; served as LGBTQIA+ community liaison, field force riot/disaster response team member, and nationwide fugitive extradition officer
 
-Honors and Fellowships
-======
+## Honors and Fellowships
+
 * 2024 – present: Dean's Fellowship, University of Cincinnati
 * 2025 – 2026: Elinor Ostrom Fellowship, Mercatus Center at George Mason University
 * 2025: Policy Fellowship, Crime and Justice Institute
