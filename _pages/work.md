@@ -20,7 +20,7 @@ redirect_from:
 * 2025 – present: Member, Crime and Justice Public Opinion Lab, School of Criminal Justice, [University of Cincinnati](https://www.uc.edu)
 * 2024 – present: Member, Health and Justice Lab, School of Criminal Justice, [University of Cincinnati](https://www.uc.edu)
 
-## Non-Academic Experience
+## Non-Academic Positions
 
 * 2025 – present: Chief Operating Officer and Founder, [JustDatalytics](https://www.justdatalytics.org), Cincinnati, OH
   * Direct daily operations and strategic initiatives to implement evidence-based programs; oversee research projects across all stages of the criminal justice system, ensuring rigorous methodological standards and statistical analysis
