@@ -32,7 +32,7 @@ author_profile: true
 ## Law Office Management
 
 * Clio - ★★★★☆ _(Certified Consultant)_
-* MyCase - ★★★☆☆ _(Certified Consultant)_
+* MyCase - ★★★★☆ _(Certified Consultant)_
 * PracticePanther - ★★★★★ _(Certified Consultant)_
 
 ## Workflow & Collaboration Tools
@@ -40,6 +40,7 @@ author_profile: true
 * Airtable — ★★★☆☆
 * Asana — ★★☆☆☆
 * Basecamp — ★★☆☆☆
+* Microsoft Teams - ★★★★☆
 * Monday.com — ★★☆☆☆
 * Notion — ★★☆☆☆
 
@@ -48,5 +49,6 @@ author_profile: true
 * Canva — ★★★★★
 * Google Workspace — ★★★★☆
 * Hootsuite — ★★★☆☆
+* Jotform - ★★★★☆
 * Microsoft Office/365 — ★★★★★
 * WordPress — ★★★★☆
