@@ -33,20 +33,20 @@ author_profile: true
 ## Invited Lectures and Presentations
 
 * **Morgan, J. J.** (2026, March). Introduction to restorative justice. (Instructor: [Natalie Artman](https://www.linkedin.com/in/artman-natalie/)). Department of Criminal Justice, [University of Cincinnati](https://www.uc.edu), Cincinnati, OH [Invited Lecturer].
-* **Morgan, J. J.** (2025, November). Beyond the bars: Men's mental health. Hope Alliance & The Soar Foundation, Cincinnati, OH [Invited Virtual Panelist and Facilitator].
-* **Morgan, J. J.** (2025, November). Corrections: Lived experience. (Instructor: Dr. Lucy Tsado). Department of Criminal Justice, Lamar University, Beaumont, TX [Invited Virtual Lecturer].
-* **Morgan, J. J.** (2024, December). Advocacy 101: Partnerships. Kentucky Equal Justice Center, Lexington, KY [Invited Instructor].
-* **Morgan, J. J.** (2024, November). Corrections: Lived experience. (Instructor: Dr. Lucy Tsado). Department of Criminal Justice, Lamar University, Beaumont, TX [Invited Virtual Lecturer].
-* **Morgan, J. J.** (2024, April). Emerging Leaders Cincinnati: Success stories. JustLeadershipUSA, Cincinnati, OH [Invited Panelist].
-* **Morgan, J. J.** (2024, April). Corrections: Lived experience. (Instructor: Dr. Lucy Tsado). Department of Criminal Justice, Lamar University, Beaumont, TX [Invited Virtual Lecturer].
-* **Morgan, J. J.** (2024, April). Struggles & triumphs: An honest dialogue with formerly incarcerated people. Florida Atlantic University, Boca Raton, FL [Invited Panelist].
-* **Morgan, J. J.** (2024, March). Sealing and expungement for attorneys: Continuing legal education course. The Florida Bar, Tallahassee, FL [Invited Virtual Instructor].
-* **Morgan, J. J.** (2023, June). Rights restoration for attorneys. Gwen S. Cherry Black Women Lawyers Association, Miami, FL [Invited Virtual Instructor].
-* **Morgan, J. J.** (2023, April). Reentry stories that inspire. Changing the Narrative event by Re-Entry One, Fort Lauderdale, FL [Invited Panelist].
-* **Morgan, J. J.** (2022, December). Hiring hidden talent: Fair chance employment. CareerSource Florida, Daytona Beach, FL [Invited Panelist].
-* **Morgan, J. J.** (2022, October). Education unchained: Second chances and recovery at FAU. Florida Atlantic University, Boca Raton, FL [Invited Panelist].
-* **Morgan, J. J.** (2022, October). Rights restoration training for law students. Nova Southeastern University Shepherd Broad College of Law, Davie, FL [Invited Instructor].
-* **Morgan, J. J.** (2022, August). The role of advocacy in reentry. Florida Atlantic University, Boca Raton, FL [Invited Panelist].
-* **Morgan, J. J.** (2022, April). Ban the box at FAU? A conversation on unlocking higher education access. Florida Atlantic University, Boca Raton, FL [Invited Panelist].
-* **Morgan, J. J.** (2021, November). Quest for peace: The police – to defund or defend? Miami Dade College, Miami, FL [Invited Virtual Panelist].
-* **Morgan, J. J.**, Pearson, M. V., & Hobbs, T. (2021, May). The Talk: What Black mothers should tell their kids about the police. Florida Justice Center, Fort Lauderdale, FL [Invited Moderator].
+* **Morgan, J. J.** (2025, November). Beyond the bars: Men's mental health. Hope Alliance & [The Soar 4031 Foundation](https://picsisreal.org/), Cincinnati, OH [Invited Virtual Panelist and Facilitator].
+* **Morgan, J. J.** (2025, November). Corrections: Lived experience. (Instructor: [Dr. Lucy Tsado](https://orcid.org/0000-0002-1657-3693)). Department of Criminal Justice, [Lamar University](https://www.lamar.edu), Beaumont, TX [Invited Virtual Lecturer].
+* **Morgan, J. J.** (2024, December). Advocacy 101: Partnerships. [Kentucky Equal Justice Center](https://www.kyequaljustice.org/), Lexington, KY [Invited Instructor].
+* **Morgan, J. J.** (2024, November). Corrections: Lived experience. (Instructor: [Dr. Lucy Tsado](https://orcid.org/0000-0002-1657-3693)). Department of Criminal Justice, [Lamar University](https://www.lamar.edu), Beaumont, TX [Invited Virtual Lecturer].
+* **Morgan, J. J.** (2024, April). Emerging Leaders Cincinnati: Success stories. [JustLeadershipUSA](https://www.jlusa.org), Cincinnati, OH [Invited Panelist].
+* **Morgan, J. J.** (2024, April). Corrections: Lived experience. (Instructor: [Dr. Lucy Tsado](https://orcid.org/0000-0002-1657-3693)). Department of Criminal Justice, [Lamar University](https://www.lamar.edu), Beaumont, TX [Invited Virtual Lecturer].
+* **Morgan, J. J.** (2024, April). Struggles & triumphs: An honest dialogue with formerly incarcerated people. [Florida Atlantic University](https://www.fau.edu), Boca Raton, FL [Invited Panelist].
+* **Morgan, J. J.** (2024, March). Sealing and expungement for attorneys: Continuing legal education course. [The Florida Bar](https://www.floridabar.org/), Tallahassee, FL [Invited Virtual Instructor].
+* **Morgan, J. J.** (2023, June). Rights restoration for attorneys. [Gwen S. Cherry Black Women Lawyers Association](https://gscbwla.org/), Miami, FL [Invited Virtual Instructor].
+* **Morgan, J. J.** (2023, April). Reentry stories that inspire. Changing the Narrative event by [Re-Entry One](https://www.reentryone.org/), Fort Lauderdale, FL [Invited Panelist].
+* **Morgan, J. J.** (2022, December). Hiring hidden talent: Fair chance employment. [CareerSource Florida](https://www.careersourceflorida.com/), Daytona Beach, FL [Invited Panelist].
+* **Morgan, J. J.** (2022, October). Education unchained: Second chances and recovery at FAU. [Florida Atlantic University](https://www.fau.edu), Boca Raton, FL [Invited Panelist].
+* **Morgan, J. J.** (2022, October). Rights restoration training for law students. [Nova Southeastern University](https://www.nova.edu) [Shepherd Broad College of Law](https://law.nova.edu), Davie, FL [Invited Instructor].
+* **Morgan, J. J.** (2022, August). The role of advocacy in reentry. [Florida Atlantic University](https://www.fau.edu), Boca Raton, FL [Invited Panelist].
+* **Morgan, J. J.** (2022, April). Ban the box at FAU? A conversation on unlocking higher education access. [Florida Atlantic University](https://www.fau.edu), Boca Raton, FL [Invited Panelist].
+* **Morgan, J. J.** (2021, November). Quest for peace: The police – to defund or defend? [Miami Dade College](https://www.mdc.edu/), Miami, FL [Invited Virtual Panelist].
+* **Morgan, J. J.**, [Pearson, M. V.](https://orcid.org/0009-0008-0867-3388), & [Hobbs, T. B.](https://www.linkedin.com/in/tameka-bradley-7064395/) (2021, May). The Talk: What Black mothers should tell their kids about the police. [Florida Justice Center](https://www.fljc.org), Fort Lauderdale, FL [Invited Moderator].
