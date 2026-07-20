@@ -9,7 +9,7 @@ author_profile: true
 
 ## Professional Service (Leadership Positions)
 
-# Current
+### Current
 
 * 2026 – present: Voting Member, Institutional Review Board, [University of Cincinnati](https://www.uc.edu)
 * 2026 – present: Voting Member, Institutional Review Board, [MDRC](https://www.mdrc.org/)
@@ -19,7 +19,7 @@ author_profile: true
 * 2025 – present: Vice-Chair, [Fair and Impartial Courts Committee](https://www.americanbar.org/groups/crsj/about/committees/fair-impartial-courts/), [American Bar Association](https://www.americanbar.org/)
 * 2025 – present: Founding Member, Advisory Board, [Western Region Reentry Summit](https://www.reentrysummitwest.com/)
 
-# Past
+### Past
 * 2025 – 2026: Founding Member, Advisory Board, Second Look Sentencing Coalition South Carolina
 * 2022 – 2023: Founding Chair, Legal Services Committee, Umbrella of Hope Miami Reentry Coalition
 * 2022 – 2023: Founding Vice-Chair, Continuum-of-Care Committee, Umbrella of Hope Miami Reentry Coalition
