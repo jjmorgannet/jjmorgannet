@@ -29,6 +29,40 @@ author_profile: true
 
 ## Professional Affiliations & Memberships
 
+### Criminal Justice & Criminology (Academic)
+* [Academic Consortium on Criminal Justice Health](https://www.accjh.org/) (2024 – present)
+* [Academy of Criminal Justice Sciences](https://www.acjs.org/) (2023 – present)
+  * [Corrections Section](https://www.acjs.org/corrections/)
+  * [Law and Public Policy Section](https://www.acjs.org/laws-and-public-policy/)
+  * [Restorative and Community Justice Section](https://www.acjs.org/restorative-and-community-justice/) _(Executive Counselor)_
+* [American Society of Criminology](https://www.asc41.org/) (2023 – present)
+  * [Division of Convict Criminology](https://www.concrim.org/)
+  * [Division of Corrections & Sentencing](https://www.ascdcs.org/)
+  * [Division of Experimental Criminology](https://www.expcrim.org/)
+  * [Division of Policing](https://www.ascpolicing.org/)
+  * [Division of Public Opinion & Policy](https://www.ascdpop.org/)
+  * [Division of Queer Criminology](https://www.queercrim.com/)
+* [Midwestern Criminal Justice Association](https://mcja.org/) (2024 – present)
+* [Southern Criminal Justice Association](https://www.southerncj.org/) (2023 – present)
+
+### Criminal Justice & Criminology (Practitioner)
+* [American Probation and Parole Association](https://www.appa-net.org/) (2024 – present)
+* [International Corrections and Prisons Association](https://www.icpa.org/) (2024 – present)
+
+### Law
+* [American Bar Association](https://www.americanbar.org/) (2024 – present)
+  * Civil Rights and Social Justice Division
+  * Criminal Justice Division
+  * Corrections Committee
+  * Diversion & Restorative Justice Committee
+  * Fair & Impartial Courts Committee _(Vice-Chair)_
+  * Legislative & Policy Committee
+  * Mental Health Committee
+  * Parole, Probation, & Reentry Committee
+* [National Legal Aid and Defenders Association](https://www.nlada.org/) (2020 – present)
+
+
+### Political Science
 * [American Political Science Association](https://apsanet.org/) (2026 – present)
   * American Political Economy Section
   * American Political Thought Section
@@ -40,27 +74,3 @@ author_profile: true
   * Political Economy Section
   * Political Organizations & Parties Section
   * Representation & Electoral Systems Section
-* American Bar Association (2024 – present)
-  * Civil Rights and Social Justice Division
-  * Criminal Justice Division
-  * Corrections Committee
-  * Diversion & Restorative Justice Committee
-  * Fair & Impartial Courts Committee
-  * Legislative & Policy Committee
-  * Mental Health Committee
-  * Parole, Probation, & Reentry Committee
-* American Society of Criminology (2023 – present)
-  * Convict Criminology Section
-  * Critical Criminology & Social Justice Section
-  * Policing Section
-  * Public Opinion & Policy Section
-  * Queer Criminology Section
-* Academy of Criminal Justice Sciences (2023 – present)
-  * Restorative and Community Justice Section
-* American Correctional Association (2025 – 2026)
-* Midwestern Criminal Justice Association (2024 – present)
-* American Probation and Parole Association (2024 – present)
-* International Corrections and Prisons Association (2024 – present)
-* Academic Consortium on Criminal Justice Health (2024 – present)
-* Southern Criminal Justice Association (2023 – present)
-* National Legal Aid and Defenders Association (2020 – present)
