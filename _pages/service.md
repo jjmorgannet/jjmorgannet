@@ -9,13 +9,17 @@ author_profile: true
 
 ## Professional Service (Leadership Positions)
 
-* 2026 – present: Voting Member, Institutional Review Board, University of Cincinnati
-* 2026 – present: Voting Member, Institutional Review Board, MDRC
-* 2026 – present: Voting Member, Institutional Review Board, North Star Review Board
-* 2025 – present: Executive Counselor, Restorative and Community Justice Section, Academy of Criminal Justice Sciences
-* 2025 – present: Chair, Programs Committee, Restorative and Community Justice Section, Academy of Criminal Justice Sciences
-* 2025 – present: Vice-Chair, Fair and Impartial Courts Committee, American Bar Association
-* 2025 – present: Founding Member, Advisory Board, Western Region Reentry Summit
+# Current
+
+* 2026 – present: Voting Member, Institutional Review Board, [University of Cincinnati](https://www.uc.edu)
+* 2026 – present: Voting Member, Institutional Review Board, [MDRC](https://www.mdrc.org/)
+* 2026 – present: Voting Member, Institutional Review Board, [North Star Review Board](https://www.learningirb.org)
+* 2025 – present: Executive Counselor, [Restorative and Community Justice Section](https://www.acjs.org/restorative-and-community-justice/), [Academy of Criminal Justice Sciences](https://www.acjs.org/)
+* 2025 – present: Chair, Programs Committee, [Restorative and Community Justice Section](https://www.acjs.org/restorative-and-community-justice/), [Academy of Criminal Justice Sciences](https://www.acjs.org/)
+* 2025 – present: Vice-Chair, [Fair and Impartial Courts Committee](https://www.americanbar.org/groups/crsj/about/committees/fair-impartial-courts/), [American Bar Association](https://www.americanbar.org/)
+* 2025 – present: Founding Member, Advisory Board, [Western Region Reentry Summit](https://www.reentrysummitwest.com/)
+
+# Past
 * 2025 – 2026: Founding Member, Advisory Board, Second Look Sentencing Coalition South Carolina
 * 2022 – 2023: Founding Chair, Legal Services Committee, Umbrella of Hope Miami Reentry Coalition
 * 2022 – 2023: Founding Vice-Chair, Continuum-of-Care Committee, Umbrella of Hope Miami Reentry Coalition
@@ -25,7 +29,7 @@ author_profile: true
 
 ## Professional Affiliations & Memberships
 
-* American Political Science Association (2026 – present)
+* [American Political Science Association](https://apsanet.org/) (2026 – present)
   * American Political Economy Section
   * American Political Thought Section
   * Elections, Public Opinion & Voting Behavior Section
