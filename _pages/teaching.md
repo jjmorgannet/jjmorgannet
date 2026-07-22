@@ -17,6 +17,7 @@ Graduate Courses
 Undergraduate Courses
 * CJ4049: Lived Experiences in Prison (Fall 2026), Teaching Assistant
 * CJ4031: What Works in Changing Offender Behavior (Fall 2026), Teaching Assistant
+* CJ2030: Corrections in America (Fall 2026), Teaching Assistant
 
 
 **Florida Department of Corrections**
